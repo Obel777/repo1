@@ -12,7 +12,9 @@ For example, _Italics text with **bold part**_.
 ## Lists
 
 ## Images
+To image insert use next: 
 
+![Numpad](images\img1.png) 
 ## Links
 
 ## Tables
