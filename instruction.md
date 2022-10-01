@@ -10,6 +10,7 @@ For example, **bold text** and __othe method__.
 Alternative ways are need for combine text highlighting. 
 For example, _Italics text with **bold part**_.
 ## Lists
+Some text
 
 ## Images
 To image insert use next: 
